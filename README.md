@@ -27,17 +27,13 @@ assigns grades, and displays charts.
 
 ## Project Structure
 
+```text
 Student_Performance_Analysis/
+│── Images/
+│   ├── bar_chart.png
+│   └── pie_chart.png
 │── analysis.py
 │── student_data.csv
 │── student_report.csv
 │── README.md
-## Output
-
-### Bar Chart
-
-![Bar Chart](Images/bar_chart.png)
-
-### Pie Chart
-
-![Pie Chart](Images/pie_chart.png)
+```
