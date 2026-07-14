@@ -32,3 +32,12 @@ Student_Performance_Analysis/
 │── student_data.csv
 │── student_report.csv
 │── README.md
+## Output
+
+### Bar Chart
+
+![Bar Chart](images/bar_chart.png)
+
+### Pie Chart
+
+![Pie Chart](images/pie_chart.png)
