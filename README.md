@@ -36,8 +36,8 @@ Student_Performance_Analysis/
 
 ### Bar Chart
 
-![Bar Chart](images/bar_chart.png)
+![Bar Chart](Images/bar_chart.png)
 
 ### Pie Chart
 
-![Pie Chart](images/pie_chart.png)
+![Pie Chart](Images/pie_chart.png)
